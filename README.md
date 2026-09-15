@@ -2,6 +2,12 @@
 
 A small AI-assisted workflow designed to help customer support teams analyze customer messages and create clear, empathetic, and actionable responses.
 
+## See it in action
+
+I tested the workflow with different customer support scenarios to see how it handles urgency, sentiment, and next steps.
+
+➡️ [View customer support examples](examples.md)
+
 ## Why I built this
 
 I wanted to explore how AI could support a Customer Success workflow while keeping the human relationship with the customer at the center.
