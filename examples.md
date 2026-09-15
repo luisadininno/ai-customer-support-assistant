@@ -55,3 +55,39 @@ These examples show how a structured AI workflow can help a support professional
 - Draft an empathetic response
 - Determine an appropriate next action
 - Keep a human support professional involved in the final decision
+
+---
+
+## Example 3 — Product Feature Question
+
+### Customer message
+
+> "Hi! I just started using the platform and I'm really enjoying it so far. I saw that there's a reporting feature, but I'm not sure where to find it. Could you point me in the right direction?"
+
+### AI analysis
+
+**Issue:** The customer wants help locating the platform's reporting feature.
+
+**Sentiment:** Positive.
+
+**Priority:** Low.
+
+**Suggested response:**
+
+> "Hi! We're glad to hear you're enjoying the platform so far. I'd be happy to help you find the reporting feature. Could you confirm which section or version of the platform you're using? That will help us provide the correct navigation steps."
+
+**Next action:** Confirm the customer's platform version or current section, then provide accurate instructions for locating the reporting feature.
+
+---
+
+## Testing notes
+
+I tested the workflow with three different customer situations:
+
+- An urgent account-access issue
+- A duplicate billing charge
+- A low-priority product question
+
+Across the tests, the workflow adjusted priority and tone based on the situation and avoided inventing product instructions, refund timelines, or company policies when that information was not available.
+
+The testing also reinforced the importance of human review and providing the AI with reliable product or company information before using its response with a real customer.
